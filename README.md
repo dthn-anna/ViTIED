@@ -7,7 +7,7 @@ The dataset was constructed by continuously monitoring verified TikTok accounts 
 
 The dataset accompanies the research paper:
 
-> **ViTIED: [Full Paper Title Here]**  
+> **ViTIED:  Vietnamese TikTok Influencer Engagement Dataset and Big Data–Driven Predictive Framework**  
 > *Authors: Mai Ngoc Ho, Nhung Thi-Hong Duong, Phuc Ngoc-Thien Le, Anh Thi-Hoang Nguyen, Trong-Hop Do*  
 > *Conference: RIVF 2025*
 
